@@ -77,7 +77,7 @@ Python / Pandas (Optional) – Preprocessing and aggregation (if used in pipelin
 Below is a composite screenshot of the final Tableau dashboard:
 
 
-(Replace with your actual path or GitHub-hosted image link if needed)
+(sceenshot/Screenshot 2025-07-03 162413.png)
 
 ✅ Key Business Takeaways
 High sales in Q4 indicate seasonal spikes.
